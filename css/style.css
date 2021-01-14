@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.penguin-card{
+    border: 0;
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+header{
+    background-color: #FFF9F4;
+}
+.logo-brand img{
+    width: 291px;
+}
+.navbar-nav-items{
+    color: #3C3C3C;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+.hero-brand{
+    width: 407px;
+}
+.image-size{
+    width: 334px;
+    height: 327px;
+}
+.btn-color{
+    color: #FFF;
+    background-color: #3848D4;
+}
+.inner-section{
+    /* width: 1171px;
+    height: 437px; */
+} 
+.service-icon{
+    width: 90px;
+    height: 90px;
+    font-size: 50px;
+    background-color: #FFF;
+    border-radius: 50%;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+}
